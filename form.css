@@ -1,0 +1,45 @@
+p{
+    position: absolute;
+    margin-top: 0px;
+    color: red;
+    font-weight: 600;
+}
+body{
+    background-color: aqua;
+
+}
+h1{
+    color: darkgoldenrod;
+}
+#submit{
+    margin-left: 130px;
+    padding: 6px;
+    width: 80px;
+    color: deeppink;
+    background-color: rgb(73, 236, 4);
+    font-weight: 800;
+    border-radius: 8px;
+}
+#password{
+    padding: 7px;
+    border-radius: 7px;
+    margin-left: 10px;
+
+}
+label{
+    margin-left: 20px;
+    font-size: 20px;
+    color: crimson;
+    font-weight: 800;
+}
+p{
+    margin-left: 20px;
+    display: none;
+}
+
+#check{
+    height: 60px;
+    width: 30px;
+    position: absolute;
+    top: 63px;
+}
